@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.png" width="100%" alt="Haydar Majeed, PhD — Ambitious ideas. Responsible systems. Research, security, and engineering." />
+  <img src="./assets/header-signature.png" width="100%" alt="Haydar Majeed — Sr. Manager, AI Cybersecurity Engineering | AI Prod Sec. PhD, CISM, CISA, c|CISO, c|OASP, c|RAGE, ISO Auditor, CEH." />
 </p>
 
 <h1 align="center">AI security leader. Researcher. Builder.</h1>
