@@ -12,10 +12,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/hmdex">GitHub ↗</a> &nbsp; · &nbsp;
-  Website <code>LINK PENDING</code> &nbsp; · &nbsp;
-  LinkedIn <code>LINK PENDING</code> &nbsp; · &nbsp;
-  YouTube <code>LINK PENDING</code>
+  <a href="#what-i-do">Focus</a> &nbsp; / &nbsp;
+  <a href="#from-research-to-prototype">Prototypes</a> &nbsp; / &nbsp;
+  <a href="#tools--technical-practice">Toolbox</a> &nbsp; / &nbsp;
+  <a href="#public-work">Public work</a> &nbsp; / &nbsp;
+  <a href="#connect--learn">Connect</a>
 </p>
 
 ## Research with intent. Engineering with evidence.
@@ -42,7 +43,7 @@ Three areas where I have **built, tested, and demonstrated prototypes**:
   <tr><td><strong>03 / Agentic Penetration Testing</strong><br />Exploring AI-assisted security testing through a prototype demonstration.</td></tr>
 </table>
 
-<sub>Prototype work—not a claim of production deployment. Public case-study links will be added when available; internal code, targets, and findings are not published here.</sub>
+<sub>Prototype demonstrations, not production-deployment claims. Public case studies will be linked when available; internal code and findings remain private.</sub>
 
 > **My approach:** make the idea tangible, test the assumptions, preserve the evidence, and keep consequential decisions with people.
 
@@ -50,11 +51,22 @@ Three areas where I have **built, tested, and demonstrated prototypes**:
 
 **AI & agentic workflows**
 
-`MCP` · `GitHub Copilot` · `OpenAI Codex` · `Google Cloud`
+<p>
+  <img src="./assets/badge-mcp.svg" alt="Model Context Protocol" height="28" />
+  <img src="./assets/badge-copilot.svg" alt="GitHub Copilot" height="28" />
+  <img src="./assets/badge-codex.svg" alt="OpenAI Codex" height="28" />
+  <img src="./assets/badge-google-cloud.svg" alt="Google Cloud" height="28" />
+</p>
 
 **Portfolio engineering**
 
-`Astro` · `TypeScript` · `CSS` · `Markdown` · `Git`
+<p>
+  <img src="./assets/badge-astro.svg" alt="Astro" height="28" />
+  <img src="./assets/badge-typescript.svg" alt="TypeScript" height="28" />
+  <img src="./assets/badge-css.svg" alt="CSS" height="28" />
+  <img src="./assets/badge-markdown.svg" alt="Markdown" height="28" />
+  <img src="./assets/badge-git.svg" alt="Git" height="28" />
+</p>
 
 <sub>Selected tools from my work and portfolio—not an exhaustive skills list or a vendor endorsement.</sub>
 
@@ -75,28 +87,20 @@ Credentials above are professional background; these visual labels are not live 
 
 </details>
 
-## Public GitHub activity
+## Public work
 
-| Public repositories | Public fork | Account created |
-| :---: | :---: | :---: |
-| **2** | **1** | **March 2026** |
+| Repository | Context |
+| :--- | :--- |
+| [**Cloudflare_computer ↗**](https://github.com/hmdex/Cloudflare_computer) | My public fork of [cloudflare/computer](https://github.com/cloudflare/computer), an agent-computer project. Credit belongs to the upstream authors. |
+| [**This profile ↗**](https://github.com/hmdex/hmdex) | The README and visual assets behind this page. |
 
-[**Cloudflare_computer ↗**](https://github.com/hmdex/Cloudflare_computer) — my public fork of [cloudflare/computer](https://github.com/cloudflare/computer). Credit belongs to the upstream authors.
-
-<sub>Public GitHub API snapshot, September 24, 2026 (UTC). Includes this profile repository. This account's public activity does not represent the full scope of my work.</sub>
+<sub>This is a public selection, not an inventory of my professional work. Explore the current [public repositories](https://github.com/hmdex?tab=repositories); private work stays private.</sub>
 
 ## Connect & learn
 
 Interested in **AI security, responsible agentic systems, research, or engineering collaboration**? Find me on [GitHub](https://github.com/hmdex).
 
 **Website:** link pending · **LinkedIn:** link pending · **YouTube:** link pending
-
-<details>
-<summary>Video updates — placeholder</summary>
-
-A verified YouTube channel URL has not been added yet. This section will link to real videos once a channel is supplied. No videos, channel ownership, or publication schedule are implied.
-
-</details>
 
 ---
 
